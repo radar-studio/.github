@@ -1,2 +1,3 @@
-# .github
-RADAR Studio's GitHub Organization Profile Repo
+# RADAR Studio
+
+A software engineering studio catering to human-centric design & development.
